@@ -1,0 +1,22 @@
+.cart-container{
+    margin-top: 70px;
+
+    background-color: rgb(163, 228, 231);
+ 
+}
+.cart-total{
+    background-color: rgb(223, 217, 217);
+     
+  
+
+  
+   
+}
+.cart-total p{
+    font-size:30px;
+    font-weight: 700;
+   
+}
+.cart-total h3{
+    color:red
+}

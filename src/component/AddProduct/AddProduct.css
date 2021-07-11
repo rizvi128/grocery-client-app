@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+}
+#add-container{   
+      margin-right: 0;
+      padding:10px;
+      border-right: 2px solid gray;
+}
+#add-container form input{
+    width:100%;
+    margin-bottom: 10px;
+    padding:10px;
+    padding-right: 40px;
+}
+Button{
+    
+    text-align: center;
+}
+
+.login{
+    display:flex;
+    margin-top: 60px;
+   
+}
+li{
+    list-style:none;
+    display:flex;
+    justify-content:space-between;
+    margin-bottom: 10px;
+    font-size:15px;
+    font-weight:700;
+}
+
+li Button{
+    margin-left:5px ;
+}

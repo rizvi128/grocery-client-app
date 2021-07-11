@@ -1,0 +1,33 @@
+.reviewCart{
+    display:flex;
+    background-color:rgb(204, 167, 167);
+    margin-top: 10px;
+    text-align: center;
+    border-radius:5px;
+    padding:10px;
+}
+.image{
+   
+ 
+    float: left;
+    height:200px;
+    width: 150px;
+    padding:5px;
+}
+.image img{
+ 
+    height:190px;
+    width: 140px;
+
+}
+.name-Price{
+    font-size:20px;
+    font-weight: 500;
+}
+span{
+    font-size:20px;
+    font-weight: 500;
+}
+.removeBtn{
+    width: 100px;
+}

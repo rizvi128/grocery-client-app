@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Chakra+Petch&display=swap');
+#form {
+    text-align: center;
+    margin-top: 60px;
+    background-color:#fff2f1;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.login-form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-form p{
+    cursor: pointer;
+    
+}
+
+.login-form input {
+    width: 400px;
+    
+    height:45px;
+    border: .5px solid gray;
+    margin-bottom: 30px;
+  
+    
+}
+
+
+.error {
+    color: red;
+}
+
+.signButton {
+    width: 400px;
+    margin-bottom: 5px;
+    border: none;
+    color: rgb(242, 244, 251);
+   
+
+}
+
+img{
+    width:30px;
+    height:30px;
+}

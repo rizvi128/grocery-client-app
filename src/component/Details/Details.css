@@ -1,0 +1,16 @@
+.pdDetails{
+    height: 400px;
+    display:flex;
+    margin-top:100px;
+    background-color:rgb(211, 199, 199);
+    text-align:center;
+    align-items: center;
+    justify-content: space-between;
+    padding:100px 50px 100px 50px;
+}
+.pdDetails img{
+    height:250px;
+    width:45%;
+
+}
+

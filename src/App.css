@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Chakra+Petch&display=swap');
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  text-decoration: none;
+ 
+ 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.search{
+  padding-left: 70px;
+  position:relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.G-style{
+  font-size:50px;
+  font-weight:700;
+  color:red
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar{
   color: white;
+  font-weight: 700;
+  background-color:  #1A202C;
+  height: 60px !important;
+  
+  
+}
+.ulistan{
+  color:white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+.searchBtn{
+  position:absolute;
+  right: 5px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.cartDiv{
+  position:relative;
+  margin-top: 10px;
+  padding: auto;
+
+ 
+}
+.length{
+  position:absolute;
+  top: -13px;
+  margin-left: 10px;
+  font-size: 12px;
+  color: goldenrod;
+ 
 }

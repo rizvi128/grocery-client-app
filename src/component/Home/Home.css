@@ -1,0 +1,21 @@
+body{
+    background-color:#eeeef0
+}
+.grid{
+    margin-top: 60px;
+    display:flex;
+    display:grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-top:10px ;
+
+}
+.currency-symbol{
+    font-size: 25px;
+     font-weight:600;
+}
+
+
+
+
+
+
